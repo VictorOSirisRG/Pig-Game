@@ -105,7 +105,7 @@ function Register() {
                   },
                   minLength: {
                     value: 6,
-                    message: "Username must be atleast 3 characters long...",
+                    message: "Nombre de usuario debe tener 3 caracteres minimo",
                   },
                   maxLength: {
                     value: 30,
